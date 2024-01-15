@@ -9,14 +9,14 @@ public class Application2 {
          *   1. 배열의 선언
          *   2. 배열의 할당
          * 3. 배열의 인덱스 공간에 값 대입
-        * */
+         * */
 
         int[] iArr;
-//        char cAr[];                            // []를 변수명 뒤어 줕여도 돌아가지만 권장되지 X
+//        char cAr[];                            // []를 변수명 뒤어 붙여도 돌아가지만 권장되지 X
 
 //        iArr = new int[];                        // 배열은 반드시 크기를 할당해주어야한다.
         iArr = new int[10];
-        char [] cArr = new char[5];
+        char[] cArr = new char[5];
 
         /* 필기. 참조자료형 변수 출력 결과 = 자료형@16진수 주소값 */
         System.out.println("iArr = " + iArr);
