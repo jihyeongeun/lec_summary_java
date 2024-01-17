@@ -32,13 +32,13 @@ public class Application1 {
             System.out.println(Arrays.toString(iArr1[i]));
         }
         /* 설명. 가변 배열은 아직 1차원 배열들이 생성되어 있지 않다.(NullPointerException도 발생 가능) */
-//        int length = 1;
-//        for (int i = 0; i < iArr2.length; i++) {        // 1차원 배열을 고르는 for문
-//            iArr2[i] = new int[++length];
-//            for (int j = 0; j < iArr2[i].length; j++) { // 선택된 1차원 배열의 길이만큼 반복하는 for문
-//                iArr2[i][j] = num ++;
-//            }
-//            System.out.println(Arrays.toString(iArr2[i]));
-//        }
+        int length = 1;
+        for (int i = 0; i < iArr2.length; i++) {        // 1차원 배열을 고르는 for문
+            iArr2[i] = new int[++length];
+            for (int j = 0; j < iArr2[i].length; j++) { // 선택된 1차원 배열의 길이만큼 반복하는 for문
+                iArr2[i][j] = num ++;
+            }
+            System.out.println(Arrays.toString(iArr2[i]));
+        }
     }
 }

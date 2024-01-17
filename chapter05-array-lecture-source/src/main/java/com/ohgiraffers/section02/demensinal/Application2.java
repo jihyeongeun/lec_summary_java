@@ -10,7 +10,7 @@ public class Application2 {
         /* 설명. 내가 2차원 배열 출력을 커스터마이징해서 활용한 출력 */
         for (int i = 0; i < iArr.length; i++) {
             for (int j = 0; j < iArr[i].length; j++) {
-                System.out.println("iArr[" + i + "][" + j + "] = " + iArr[i][j] + "");
+                System.out.print("iArr[" + i + "][" + j + "] = " + iArr[i][j] + "");
             }
             System.out.println();
         }
