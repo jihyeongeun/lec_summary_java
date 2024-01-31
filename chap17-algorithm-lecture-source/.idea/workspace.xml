@@ -25,6 +25,8 @@
       <change beforePath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +143,7 @@
       <updated>1706579036634</updated>
       <workItem from="1706579037689" duration="13389000" />
       <workItem from="1706597826122" duration="440000" />
-      <workItem from="1706659687418" duration="16879000" />
+      <workItem from="1706659687418" duration="17338000" />
     </task>
     <servers />
   </component>
