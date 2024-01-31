@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b89ef22c-64c9-49a4-a76c-a896075ba4f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/main/java/com/ohgiraffers/assertions/section02/assertj/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/test/java/com/ohgiraffers/assertions/section02/assertj/AssertJTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/DateValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/NumberValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/StringValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/java/com/ohgiraffers/parameterized/section01/params/ParameterizedTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/java/com/ohgiraffers/parameterized/section01/params/SumTwoNumbersArgumentsProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/resources/parameter-test-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap01/section01/timecomplexity/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap02/section01/sorting/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap02/section01/sorting/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap02/section01/sorting/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap02/section01/sorting/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap02/section01/sorting/Application5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap02/section01/sorting/Application1Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap02/section01/sorting/Application2Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap02/section01/sorting/Application3Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap02/section01/sorting/Application4Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap02/section01/sorting/Application5Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap03/section01/graph_search/Application1Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap03/section01/graph_search/Application2Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap00-assertions-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap00-assertions-lecture-source/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/main/java/com/ohgiraffers/assertions/section01/jupiter/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/main/java/com/ohgiraffers/assertions/section01/jupiter/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2becYwyqw0hMW4kEBouNdMGHsBx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Application.executor": "Run",
+    "Application.Application1.executor": "Run",
+    "Application.Application2.executor": "Run",
+    "Application.Application3.executor": "Run",
+    "JUnit.Application1Tests.bubbleSortTests.executor": "Run",
+    "JUnit.Application1Tests.executor": "Run",
+    "JUnit.Application2Tests.executor": "Run",
+    "JUnit.Application3Tests.executor": "Run",
+    "JUnit.Application4Tests.executor": "Run",
+    "JUnit.Application5Tests.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/workspace/01_java/lecture_summary/chap17-algorithm-lecture-source/src/main/java/com/ohgiraffers",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ohgiraffers.chap03.section01.graph_search" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ohgiraffers.chap02.section01.sorting" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap01.section01.timecomplexity.Application" />
+      <module name="chap17-algorithm-lecture-source.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.chap01.section01.timecomplexity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application1Tests.bubbleSortTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chap17-algorithm-lecture-source.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.chap02.section01.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ohgiraffers.chap02.section01.sorting" />
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.chap02.section01.sorting.Application1Tests" />
+      <option name="METHOD_NAME" value="bubbleSortTests(int,int[],int[])" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.Application1Tests.bubbleSortTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b89ef22c-64c9-49a4-a76c-a896075ba4f1" name="Changes" comment="" />
+      <created>1706579036634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706579036634</updated>
+      <workItem from="1706579037689" duration="13389000" />
+      <workItem from="1706597826122" duration="440000" />
+      <workItem from="1706659687418" duration="12182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
