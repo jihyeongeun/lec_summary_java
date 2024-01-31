@@ -5,47 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b89ef22c-64c9-49a4-a76c-a896075ba4f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/main/java/com/ohgiraffers/assertions/section02/assertj/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/test/java/com/ohgiraffers/assertions/section02/assertj/AssertJTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/DateValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/NumberValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/StringValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/java/com/ohgiraffers/parameterized/section01/params/ParameterizedTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/java/com/ohgiraffers/parameterized/section01/params/SumTwoNumbersArgumentsProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/resources/parameter-test-data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap01/section01/timecomplexity/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap02/section01/sorting/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap02/section01/sorting/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap02/section01/sorting/Application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap02/section01/sorting/Application4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap02/section01/sorting/Application5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap02/section01/sorting/Application1Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap02/section01/sorting/Application2Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap02/section01/sorting/Application3Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap02/section01/sorting/Application4Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap02/section01/sorting/Application5Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap03/section01/graph_search/Application1Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap03/section01/graph_search/Application2Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap03/section01/graph_search/Application3Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap03/section01/graph_search/Application4Tests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap00-assertions-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap00-assertions-lecture-source/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/main/java/com/ohgiraffers/assertions/section01/jupiter/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/main/java/com/ohgiraffers/assertions/section01/jupiter/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/main/java/com/ohgiraffers/assertions/section02/assertj/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/main/java/com/ohgiraffers/assertions/section02/assertj/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/test/java/com/ohgiraffers/assertions/section02/assertj/AssertJTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/test/java/com/ohgiraffers/assertions/section02/assertj/AssertJTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/DateValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/DateValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/NumberValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/NumberValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/StringValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/main/java/com/ohgiraffers/parameterized/section01/params/StringValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/java/com/ohgiraffers/parameterized/section01/params/ParameterizedTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/java/com/ohgiraffers/parameterized/section01/params/ParameterizedTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/java/com/ohgiraffers/parameterized/section01/params/SumTwoNumbersArgumentsProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/java/com/ohgiraffers/parameterized/section01/params/SumTwoNumbersArgumentsProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/resources/parameter-test-data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/resources/parameter-test-data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +141,7 @@
       <updated>1706579036634</updated>
       <workItem from="1706579037689" duration="13389000" />
       <workItem from="1706597826122" duration="440000" />
-      <workItem from="1706659687418" duration="12182000" />
+      <workItem from="1706659687418" duration="16879000" />
     </task>
     <servers />
   </component>

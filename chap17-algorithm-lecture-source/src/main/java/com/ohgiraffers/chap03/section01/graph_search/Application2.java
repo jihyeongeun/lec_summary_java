@@ -5,6 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+/* 수업목표. BFS와 x,y좌표를 활용한 문제를 해결할 수 있다.(feat. 배열의 인덱스와 반대 개념) */
 public class Application2 {
     public static BufferedReader toBufferedReader(String str){
         InputStream is = new ByteArrayInputStream(str.getBytes());

@@ -3,6 +3,7 @@ package com.ohgiraffers.chap03.section01.graph_search;
 import java.io.*;
 import java.util.StringTokenizer;
 
+/* 수업목표. DFS를 활용(재귀함수)하는 예제를 이해할 수 있다. */
 public class Application1 {
 
     static boolean[] visit;
