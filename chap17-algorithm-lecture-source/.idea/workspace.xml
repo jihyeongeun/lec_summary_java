@@ -5,11 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b89ef22c-64c9-49a4-a76c-a896075ba4f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap03/section01/graph_search/Application3Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap03/section01/graph_search/Application4Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap04/section01/greedy/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap04/section01/greedy/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap04/section01/greedy/Application3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap04/section01/greedy/Application3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap05/section01/tree/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap05/section01/tree/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap06/section01/dp/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap06/section01/dp/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap04/section01/greedy/Application1Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap04/section01/greedy/Application2Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap04/section01/greedy/Application3_1Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap04/section01/greedy/Application3_2Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap05/section01/tree/Application1Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap05/section01/tree/Application2Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap06/section01/dp/Application1Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ohgiraffers/chap06/section01/dp/Application2Tests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap00-assertions-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap00-assertions-lecture-source/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/main/java/com/ohgiraffers/assertions/section01/jupiter/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-assertions-lecture-source/src/main/java/com/ohgiraffers/assertions/section01/jupiter/Calculator.java" afterDir="false" />
@@ -24,9 +36,8 @@
       <change beforePath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/resources/parameter-test-data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../chap00-parameterized-test-lecture-source/src/test/resources/parameter-test-data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap11-collection-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap13-io-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap13-io-lecture-source/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/chap03/section01/graph_search/Application2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +89,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/workspace/01_java/lecture_summary/chap17-algorithm-lecture-source/src/main/java/com/ohgiraffers",
+    "last_directory_selection": "C:/workspace/01_java/lecture_summary/chap17-algorithm-lecture-source/src/main/java/com/ohgiraffers/chap06/section01/dp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,6 +101,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ohgiraffers.chap06.section01.dp" />
+      <recent name="com.ohgiraffers.chap05.section01.tree" />
       <recent name="com.ohgiraffers.chap03.section01.graph_search" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -143,7 +156,9 @@
       <updated>1706579036634</updated>
       <workItem from="1706579037689" duration="13389000" />
       <workItem from="1706597826122" duration="440000" />
-      <workItem from="1706659687418" duration="17338000" />
+      <workItem from="1706659687418" duration="18479000" />
+      <workItem from="1706684670365" duration="11000" />
+      <workItem from="1706745870322" duration="15734000" />
     </task>
     <servers />
   </component>
